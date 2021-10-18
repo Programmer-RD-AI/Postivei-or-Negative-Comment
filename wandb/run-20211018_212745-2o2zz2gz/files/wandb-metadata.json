@@ -1,0 +1,21 @@
+{
+    "os": "Linux-5.11.0-37-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.11",
+    "heartbeatAt": "2021-10-18T15:57:47.410198",
+    "startedAt": "2021-10-18T15:57:45.729619",
+    "docker": null,
+    "gpu": "GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-eb9ae255-aaf1-4ee8-b39a-34c9df65d767.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/media/indika/Home/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/Positive-or-Negative-Comment",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}
