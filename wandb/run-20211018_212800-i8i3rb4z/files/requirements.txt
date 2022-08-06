@@ -261,7 +261,7 @@ sniffio==1.2.0
 soupsieve==2.2.1
 speechrecognition==3.8.1
 sseclient==0.0.27
-streamlit==0.84.1
+streamlit==1.11.1
 stripe==2.60.0
 subprocess32==3.5.4
 tabulate==0.8.9
