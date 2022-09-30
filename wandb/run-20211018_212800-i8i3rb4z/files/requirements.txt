@@ -126,7 +126,7 @@ itsdangerous==2.0.1
 jedi==0.18.0
 jinja2==3.0.2
 jmespath==0.10.0
-joblib==1.1.0
+joblib==1.2.0
 js2py==0.71
 json5==0.9.6
 jsonschema==3.2.0
