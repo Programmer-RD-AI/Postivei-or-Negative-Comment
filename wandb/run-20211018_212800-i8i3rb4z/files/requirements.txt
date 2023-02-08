@@ -50,7 +50,7 @@ conda-token==0.3.0
 conda-verify==3.4.2
 conda==4.10.3
 configparser==5.0.2
-cryptography==3.4.8
+cryptography==39.0.1
 cycler==0.10.0
 cython==0.29.24
 debugpy==1.4.1
